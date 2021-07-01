@@ -175,6 +175,9 @@ footer .arrow {
         display: block;
         margin-right: 20px;
     }
+    main{
+        background-size:100vw 100vh;
+    }
 }
 @media (max-width: 600px) {
     footer .buttons--area {
