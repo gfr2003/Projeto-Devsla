@@ -9,4 +9,4 @@ Esse é um clone da tesla que desenvolvi com html e css puro.
 
 -Em breve atualizarei com Javascript para interações com menu.
 
-- Link do Projeto: https://gufelix.github.io/Projeto-Devsla/
+- Link do Projeto:
